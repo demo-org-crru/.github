@@ -22,7 +22,6 @@ This page gives trainers a quick map of what exists in this organization and wha
 | [`custom-properties-scripts`](https://github.com/demo-org-crru/custom-properties-scripts) | Scripts for operations using repository custom properties | Operational scripts, metadata workflows | Custom properties, operations automation, shell scripting |
 | [`Odense-examples`](https://github.com/demo-org-crru/Odense-examples) | Examples for org GHAS enablement with Terraform, reusable workflows, shared actions | Security automation examples (code scanning, dependency review, etc.) | GHAS, code scanning, dependency review, Terraform, reusable workflows |
 | [`IssueOps-scripts`](https://github.com/demo-org-crru/IssueOps-scripts) | Scripts supporting IssueOps flows | Automation scripts for issue-driven operations | IssueOps, workflow automation, JavaScript |
-| [`TL-md`](https://github.com/demo-org-crru/TL-md) | “transparency lens” repo | Makefile-driven content/workflow project | Transparency/reporting, build automation |
 
 ---
 
